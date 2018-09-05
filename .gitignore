@@ -36,4 +36,4 @@ sysinfo.txt
 *.unitypackage
 
 # Unity3d imported files
-Imported/
+Assets/Imported/
